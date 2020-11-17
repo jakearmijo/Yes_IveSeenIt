@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Yes_IveSeenIt
-This is a collab between two guys just trying to have some fun and gain some knowledge while job searching and living the COVID life. They might even meet over some beers to discuss the progress or lack there of. 
-=======
 # Boilermaker
 
 _Good things come in pairs_
@@ -227,4 +223,3 @@ production server to be cluttered up with dev dependencies like
 git-tracking to be cluttered with production build files like
 `bundle.js`! By doing these steps, we make sure our development and
 production environments both stay nice and clean!
->>>>>>> 0c225304b6d441aefa71a39883e698d4505dd828
