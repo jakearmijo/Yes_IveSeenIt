@@ -3,6 +3,7 @@ import Card from 'react-bootstrap/Card'
 import Button from 'react-bootstrap/Button'
 import Form from 'react-bootstrap/Form'
 import Collapse from 'react-bootstrap/Collapse'
+const SeasonOne = require('../../Seinfeld')
 
 const EpisodeCard = (props) => {
   const [open, setOpen] = useState(false)

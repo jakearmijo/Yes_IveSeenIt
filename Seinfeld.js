@@ -1,4 +1,4 @@
-let SeasonOne = [
+const SeasonOne = [
   {
     numberOveral: 1,
     numberInSeaon: 1,
@@ -40,3 +40,5 @@ let SeasonOne = [
     AirDate: 'June 21, 1990',
   },
 ]
+
+module.exports = SeasonOne
